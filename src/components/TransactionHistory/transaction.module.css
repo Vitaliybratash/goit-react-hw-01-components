@@ -1,0 +1,17 @@
+.transaction-history{ 
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+.transactionName {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 150px;
+    padding-bottom: 20px;
+
+}
+.name {
+    color: #7F8E9D;
+}

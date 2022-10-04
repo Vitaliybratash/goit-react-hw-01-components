@@ -1,0 +1,30 @@
+.sstatistics {
+    width: 270px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 16px;  
+    color: rgb(126, 126, 126);
+}
+.stat-list { 
+  display: flex;
+  padding: 0;
+  list-style: none;
+  gap: 20px;
+  background-color:  #4CC6F5;;
+  padding: 10px;
+}
+.item {
+    display: flex;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 1);
+}
